@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+}
+.container{
+    padding: 30px 50px;
+    margin-left: 20%;
+}
+button{
+    border-radius: 20px;
+    height: 5vh;
+    background-color:aqua;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.abt{
+    color:aquamarine;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
